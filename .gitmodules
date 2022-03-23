@@ -1,0 +1,3 @@
+[submodule "erebus"]
+	path = erebus
+	url = git@gitlab.com:rcj-rescue-tc/erebus/erebus.git
